@@ -1,0 +1,1 @@
+A simple contract for adding cars information inside a struct, also the usage of mapping is demonstrated in this code.
